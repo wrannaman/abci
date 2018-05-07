@@ -1,0 +1,6 @@
+{
+  "port": 5080,
+  "log_path": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log",
+  "env": "dev",
+  "log_level": "silly"
+}

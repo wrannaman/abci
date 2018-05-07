@@ -1,0 +1,774 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/.audit.json",
+    "files": [
+        {
+            "date": 1525665057974,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "34af4b26f1681c1685a1d6b731099558"
+        },
+        {
+            "date": 1525666303401,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "f80e041b51da8d82d7f15569f27dde9f"
+        },
+        {
+            "date": 1525666373402,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "43867ab14989a0d67033692d3c3221f4"
+        },
+        {
+            "date": 1525666398679,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "07352452379f66c692cb7e2666e661e0"
+        },
+        {
+            "date": 1525666401031,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "9ead98ecb9422dda6ee5880b02477cb5"
+        },
+        {
+            "date": 1525666401856,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "62aecb78a2c3ac0f68dfe0ea11baa039"
+        },
+        {
+            "date": 1525666407917,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "23f12e0dbe1422a5b0ac58fc8ca67119"
+        },
+        {
+            "date": 1525666763054,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "5241427e3e5bcc72a4a4e887725068b4"
+        },
+        {
+            "date": 1525666772328,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "57bbd97736a69d83b788a1d7fa4fef53"
+        },
+        {
+            "date": 1525666777121,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "13bb6a0aacbd7140c77a6c522154a0e6"
+        },
+        {
+            "date": 1525666786157,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "e8b1abd56c40ef710cce7ad7a0f346e5"
+        },
+        {
+            "date": 1525666787601,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "329806889ec12d2a0664d03626106c26"
+        },
+        {
+            "date": 1525666791338,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "deadf0d1ef8dc06d1048cbe82d6c78f2"
+        },
+        {
+            "date": 1525666795066,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "0772a99fcb0aff5284a0185e28442a60"
+        },
+        {
+            "date": 1525666795340,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "8a8a2a66880a6c4c4367d7ffa0adc98b"
+        },
+        {
+            "date": 1525666857585,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "4f2f1a8481b1b909aeda7c28d58b3d12"
+        },
+        {
+            "date": 1525666860050,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "0d70ebb6f23e48e5aa0103cf27faebed"
+        },
+        {
+            "date": 1525667231473,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "4eb0402e04ae71fbac0e417b6f95784e"
+        },
+        {
+            "date": 1525667262617,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "a0e41d8b8354e5d175af68f39778f7df"
+        },
+        {
+            "date": 1525667635921,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "0e4b81061612d92b7905c000eea3164a"
+        },
+        {
+            "date": 1525667661229,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "ae51974bd9920c2ea7a1ab8366116e13"
+        },
+        {
+            "date": 1525667683015,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "6edfa5cbfcc3a911a52fbb560c2aeb16"
+        },
+        {
+            "date": 1525667686818,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "5963cd6afcb77e7d9b299deb19d37cd8"
+        },
+        {
+            "date": 1525667687288,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "9dfdbd4a17d19ae89fc531f57baad2bd"
+        },
+        {
+            "date": 1525667687644,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "c4445c1572b7b2cf4aaa6606559a2946"
+        },
+        {
+            "date": 1525667688087,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "bc5e44057d012d31d1e3f4d206816a7e"
+        },
+        {
+            "date": 1525667691009,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "3d5fdb6a93f51381b0fdd5c7c4ecb3bc"
+        },
+        {
+            "date": 1525667694271,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "82973bd0f30b76337d93140e38e8c7a4"
+        },
+        {
+            "date": 1525667698156,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "ca6d7eaf01774d1b277c4503715b1533"
+        },
+        {
+            "date": 1525667735582,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "8494e829c3a116d380fc84000f661050"
+        },
+        {
+            "date": 1525667814584,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "a6c29bb0397f8a872345577811922ac4"
+        },
+        {
+            "date": 1525667827309,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "4d2261e59ff79b328b8d0770f7b469cb"
+        },
+        {
+            "date": 1525667833365,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "e953a2dc6d92d50a46b5fa8286ce8c23"
+        },
+        {
+            "date": 1525667843211,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "320ead58aa920958611df112511bfe70"
+        },
+        {
+            "date": 1525667869811,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "87cc1cdc1a3b98a796794be2fd2c0a15"
+        },
+        {
+            "date": 1525667921605,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "13f4b6535132db0b8ad1495e2218169b"
+        },
+        {
+            "date": 1525667925231,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "a5b60475277297cb96d66305c71425ca"
+        },
+        {
+            "date": 1525667927085,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "46dc1fcc6e01eca7a5e7f0d0b516c7eb"
+        },
+        {
+            "date": 1525670560105,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "8a8cd640fb53d586190d43807907046c"
+        },
+        {
+            "date": 1525670570598,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "f60577da97e682b1ae5424d8340375c9"
+        },
+        {
+            "date": 1525670645801,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "1f5791d3f0f047e60f7392427c5908f4"
+        },
+        {
+            "date": 1525671314563,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "0cb186642bc0632cbb07b948adba1bdc"
+        },
+        {
+            "date": 1525671322611,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "9f52c56ca7836440c00eaaea7a440153"
+        },
+        {
+            "date": 1525671344811,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "f38ee7fa21bb71702068471498d96094"
+        },
+        {
+            "date": 1525671345204,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "9ad353c3f1acab4386f4bdb2c22fe59e"
+        },
+        {
+            "date": 1525671352344,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "8f3a50cee097797cc340b7f464c89f62"
+        },
+        {
+            "date": 1525671355241,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "8f83ccb931fadc6fdeedd193811208a2"
+        },
+        {
+            "date": 1525671356895,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "bc121cbc8795fe51c8826db75ce4fe6e"
+        },
+        {
+            "date": 1525671365905,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "3a987241fb998dfaedcd63e36c19fdf3"
+        },
+        {
+            "date": 1525671370150,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "39fb089ae3d87e34917906747d6d5dec"
+        },
+        {
+            "date": 1525671384485,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "17f184930aaf34ef73147b4c3316e511"
+        },
+        {
+            "date": 1525671420480,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "5192e29b69f5910a3beba21f9a209033"
+        },
+        {
+            "date": 1525671430044,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "d19bdb3360b9008439b1cf1fe9e44384"
+        },
+        {
+            "date": 1525671434492,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "874688e9808d6d8705f6a9adcdac4fbf"
+        },
+        {
+            "date": 1525671436877,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "a6bb585a9d3a685159e210d2cc586448"
+        },
+        {
+            "date": 1525671439193,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "d2f15e83f920cd2bf68f6251dd080c23"
+        },
+        {
+            "date": 1525671441108,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "b3d6ad463c8c2059a8262f3ddc036019"
+        },
+        {
+            "date": 1525671441579,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "5fa5450a9b123614aedc614a1df7c665"
+        },
+        {
+            "date": 1525671452240,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "d7a57a1d5c107303fba7406f99b8300a"
+        },
+        {
+            "date": 1525671458913,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "9a74407304aaf866a3d565f58688d1fc"
+        },
+        {
+            "date": 1525671480979,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "cb2911c59aba6dcb9168b8d6841e3cef"
+        },
+        {
+            "date": 1525671487244,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "58f5a496c8ef5b9c528a6d58adcf3cc9"
+        },
+        {
+            "date": 1525671493081,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "db725fa2363d6e70a05a1f900eb9f368"
+        },
+        {
+            "date": 1525671503146,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "377717c431bf76db2ede8f36cbbe4f5c"
+        },
+        {
+            "date": 1525671525589,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "76338f43a7fde1ad55b3251551d6ff5a"
+        },
+        {
+            "date": 1525671550155,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "c88b69fd150ac368ad8dd566fbf95f98"
+        },
+        {
+            "date": 1525671602575,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "23067de468ab17f9990fef71e13b0782"
+        },
+        {
+            "date": 1525671611824,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "41d4df8015854440acde3ad0f75e91f1"
+        },
+        {
+            "date": 1525671642998,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "ef0b3b4e17200bf7a484999325c73ada"
+        },
+        {
+            "date": 1525671759111,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "df52fceef1dd313f8b80cebf3c4c4b0b"
+        },
+        {
+            "date": 1525671833390,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "a793ddf3e7ed0cc5dbdeb003cdd036ee"
+        },
+        {
+            "date": 1525671840295,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "d82a5f6fb3251464b85ff35c4eb7b4e3"
+        },
+        {
+            "date": 1525671850532,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "68156c67371e9099f6c554cfad3d0e69"
+        },
+        {
+            "date": 1525671852964,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "3ca65631bc7ab19da40ecf5910275caf"
+        },
+        {
+            "date": 1525671862066,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "bccb4ea2fec6ef30188930ded088ae0c"
+        },
+        {
+            "date": 1525671883073,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "69fae4b4146b628b05ca27af8e793595"
+        },
+        {
+            "date": 1525671906527,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "524112c0cf5ed399ccf41eec74c93f73"
+        },
+        {
+            "date": 1525671921816,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "1c00730b0a51d891f981b2fe59d9d36c"
+        },
+        {
+            "date": 1525671926073,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "e3e0d828266852d6beeb0f4c758d1345"
+        },
+        {
+            "date": 1525671933467,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "84f0aedad51beeee2ff0b490a77461fa"
+        },
+        {
+            "date": 1525671940825,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "bd23e6abbb3bf4ccc5ab5a2de8bcede1"
+        },
+        {
+            "date": 1525671961947,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "6afb8849eb8c7d09d2ca2af12389662b"
+        },
+        {
+            "date": 1525671965238,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "360fc9c9667b7e1e51ff6fdae9b62cb2"
+        },
+        {
+            "date": 1525671969498,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "be60e16023ee929dec72a9c06a2874c7"
+        },
+        {
+            "date": 1525671996613,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "900919556ec099f3b0384da6ba5a50d9"
+        },
+        {
+            "date": 1525672012229,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "30941d6fd8ffb552f187c21a780d398f"
+        },
+        {
+            "date": 1525672030515,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-06.log",
+            "hash": "596028225f154eec4a1a1751c446db4c"
+        },
+        {
+            "date": 1525698559426,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "a19452e35ea1df3d90ce26118db53663"
+        },
+        {
+            "date": 1525698653323,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "ab2d9369701e3b61796b8aeb08b2e874"
+        },
+        {
+            "date": 1525698660441,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "e377633b59e5e9326719b9009420284f"
+        },
+        {
+            "date": 1525699984476,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "0a5069b7e7117ec60ae152de126a651c"
+        },
+        {
+            "date": 1525700204998,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "07b9d56d4b6218ca8a7288c007bda576"
+        },
+        {
+            "date": 1525700460348,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "dc70553b81444e93ba91316ab41d0817"
+        },
+        {
+            "date": 1525700518976,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "84d261a10f4151ab8353c8d25880bec4"
+        },
+        {
+            "date": 1525700545424,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "887980761187cc1d92c6dd274e0542fa"
+        },
+        {
+            "date": 1525700589057,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "b4b7f484a485cf4c9e8f8c7b304c1461"
+        },
+        {
+            "date": 1525700612227,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "d55fa18438f905e674d965d914d97818"
+        },
+        {
+            "date": 1525700624292,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "cb58653ac533467b754cc8dc0aad4473"
+        },
+        {
+            "date": 1525700744656,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "eadff622a6aca7d952f54063ddc2dc51"
+        },
+        {
+            "date": 1525700822468,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "6d8e8d7c2069a5f497a8d94573c450fe"
+        },
+        {
+            "date": 1525700826418,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "d1f11bff3bc7a0727d3c396dc3321ffb"
+        },
+        {
+            "date": 1525700835010,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "a69c54480b47bbe3f4adf42c9b56b4b7"
+        },
+        {
+            "date": 1525700844159,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "33958f7aac6a25211e438ec0d17ff816"
+        },
+        {
+            "date": 1525700845255,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "c5cb53a998b09dc716b6a4b684fe36cf"
+        },
+        {
+            "date": 1525700855562,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "34cfccf2aa33ef4a6260a775d2c521bb"
+        },
+        {
+            "date": 1525700864530,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "ba2d28090286564d739974cdbc0721d9"
+        },
+        {
+            "date": 1525700873293,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "f3b6e362ea30bc38d271dd4a237e30b9"
+        },
+        {
+            "date": 1525700873750,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "d8f8f394b2b2e28a548d1772c6064e2a"
+        },
+        {
+            "date": 1525700900917,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "00084d95f07f660e585221f7c7685458"
+        },
+        {
+            "date": 1525700937360,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "c9c20656ad4b82cbf8a043b755b1f9f0"
+        },
+        {
+            "date": 1525700946586,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "296afe7fdcaa376bf74824b9757b64dd"
+        },
+        {
+            "date": 1525700961314,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "0c774792ee7334207bd0351af5ba38c5"
+        },
+        {
+            "date": 1525700966540,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "cc6ad70de82bc47b0a3e0cf1dca9fc12"
+        },
+        {
+            "date": 1525700968283,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "ecbc27e3bfa7610ea621dfb21d6eefa2"
+        },
+        {
+            "date": 1525700969627,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "97faeaf5346659b14541033626bd0274"
+        },
+        {
+            "date": 1525700995432,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "3b2f5595b74f8edc8a22a47a3775e85c"
+        },
+        {
+            "date": 1525701531773,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "4dc0b76fcef0edbb8173d5683a27dfb5"
+        },
+        {
+            "date": 1525701536676,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "0c02e160933c90d67f4d9e270edaf05a"
+        },
+        {
+            "date": 1525701540274,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "40c02f17ff6a6143317c4a64397245a0"
+        },
+        {
+            "date": 1525701544725,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "6a3d5e989912a8a12480d46ac576bc41"
+        },
+        {
+            "date": 1525701550206,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "82deff28a9b5631ec2db37521fabf673"
+        },
+        {
+            "date": 1525701553941,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "11a2010f5ac199c0eba9696dff82189d"
+        },
+        {
+            "date": 1525701557911,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "9576c2f54e1e39e99f56a957c121d58a"
+        },
+        {
+            "date": 1525701561135,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "37cd8826703ba00732832303dfd81bc1"
+        },
+        {
+            "date": 1525701643121,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "7160c3420c3f1b712dfd104d5b253132"
+        },
+        {
+            "date": 1525701653799,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "381e48ae993d0c5505e564de3b5a70e4"
+        },
+        {
+            "date": 1525701655651,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "cfb3e1486c6e29497f2bede25e116797"
+        },
+        {
+            "date": 1525701659367,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "38fb1176fe12180d60d8167b341f466c"
+        },
+        {
+            "date": 1525701767211,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "7b10fde6b1c49de52c28ef988bd7bffd"
+        },
+        {
+            "date": 1525701778249,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "33570f69912e9dff12a81a82dd884550"
+        },
+        {
+            "date": 1525701789944,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "c0c4140f585e47201044dfd1cfe154ba"
+        },
+        {
+            "date": 1525701794815,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "a82c96d8c5d3dcb1f7ddd9f0818a0153"
+        },
+        {
+            "date": 1525701801262,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "017abd2b80f386ebf1c95c3304a0badd"
+        },
+        {
+            "date": 1525701806905,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "8ef7ccc637a92538cf0a61f2874de4a3"
+        },
+        {
+            "date": 1525701814304,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "68dd1ed703bb4734ad3df7068234d7d5"
+        },
+        {
+            "date": 1525701817345,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "2a84e471e6f75c806b7b91edc9c0f7a8"
+        },
+        {
+            "date": 1525701828267,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "4c830cb3e9c1dbd17305cbbb295edaa0"
+        },
+        {
+            "date": 1525701835085,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "28218a4335e14e5949caf58c2123b196"
+        },
+        {
+            "date": 1525701842039,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "f7c2756b84d91b1d7c417bf07c638e0d"
+        },
+        {
+            "date": 1525701846023,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "605b43121bc11a76cbd04c8b4e72608d"
+        },
+        {
+            "date": 1525701847275,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "6e25e21124348a620fe3f711dfb7e01c"
+        },
+        {
+            "date": 1525702119808,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "1877850c5272ab567af3b003cec87525"
+        },
+        {
+            "date": 1525702151651,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "51096f20c7dfc931c2732d0b132cae2d"
+        },
+        {
+            "date": 1525702163849,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "f860d5ee94defef27b29a7a62f92c2e5"
+        },
+        {
+            "date": 1525702166639,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "d4781755662906126f9066822b855476"
+        },
+        {
+            "date": 1525702176614,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "9ff10f37dc165c1495824536a3ba1b02"
+        },
+        {
+            "date": 1525702186563,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "cbe0828159f56b16875af17ea832182e"
+        },
+        {
+            "date": 1525702193417,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "3a1e52357d7836cb032c561f5103197b"
+        },
+        {
+            "date": 1525702282223,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "5332f4483dd9880dfe128a90823aeda2"
+        },
+        {
+            "date": 1525702300619,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "633b37092bea94257f8fd692b45de4ab"
+        },
+        {
+            "date": 1525702309819,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "edac0157a6282af2da2d1e6f2181b17d"
+        },
+        {
+            "date": 1525702332014,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "667a9cee753b63ac469d0c55d90cbe58"
+        },
+        {
+            "date": 1525702338038,
+            "name": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log/ap_dag-2018-05-07.log",
+            "hash": "e7a027649f8098abf0fd8a0deebb0c7f"
+        }
+    ]
+}
