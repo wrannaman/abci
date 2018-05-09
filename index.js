@@ -33,6 +33,7 @@ const pubSock = zeromq.pubSock;
 */
 subSock.on('message', function(topic, message) {
 	topic = topic.toString()
+	console.log('TOPIC', topic)
 	switch (topic) {
 		/* Consensus */
 		case 'consensus.init_chain':
@@ -53,7 +54,6 @@ subSock.on('message', function(topic, message) {
 		case 'consensus.commit':
 			return commit_handler(message)
 			break;
-
 
 		/* Info */
 		case 'info.app_state':

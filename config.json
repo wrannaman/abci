@@ -1,6 +1,11 @@
 {
-  "port": 5080,
+  "abci_port": 5080,
+  "chain_port": 46655,
+  "chain_host": "0.0.0.0",
+  "abci_host": "0.0.0.0",
   "log_path": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/log",
   "env": "dev",
-  "log_level": "silly"
+  "log_level": "silly",
+  "data_path": "/Users/andrewpierno/Desktop/personal/dev/projects/untitled_blockchain/abci/data",
+  "data_namespace": "test-1"
 }
